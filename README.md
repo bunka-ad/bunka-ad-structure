@@ -1,0 +1,1 @@
+# bunka-ad-structure
